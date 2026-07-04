@@ -24,6 +24,15 @@ This project is developed using an Arduino Uno and an HC-SR04 Ultrasonic Sensor 
 
 ## 🚀 Future Improvements
 - Add buzzer for audio alerts.
+- ## 📷 Project Images
+
+### 🔹 Working Model
+
+![Working Model](project_image.png)
+
+### 🔹 Circuit Diagram
+
+![Circuit Diagram](circuit_connections.png)
 - Display distance on an LCD.
 - Wireless monitoring using IoT.
 
